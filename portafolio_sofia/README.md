@@ -1,4 +1,4 @@
-# Portafolio profesional — Sofi
+# Portafolio profesional 
 
 Sitio web frontend responsive para el parcial de Desarrollo Web. Construido con HTML, CSS y Bootstrap 5.
 
